@@ -51,7 +51,7 @@ body {
   p {
     text-align: justify;
   }
-  @media(max-width:500px) {
+  @media handheld and (max-width:700px) {
     #grid2 {
       display:block;
     }
